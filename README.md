@@ -1,6 +1,11 @@
  ## Gabriel Arruda Carricchio
 
- ```Software Engeneer | Back-end```
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FFFFFF&center=false&vCenter=true&random=false&width=524&lines=+Software+Engeneer+|+Back-end+" alt="Typing SVG">
+  </a>
+</div>
+
  
 ## 👨‍💻 About me 
 I'm studying information systems and learning about cloud computing, data structures, and databases. I enjoy programming and am dedicated to my projects and work. I'm looking for jobs in the back-end area; my primary programming language is Python.
