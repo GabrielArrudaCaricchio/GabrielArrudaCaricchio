@@ -1,16 +1,14 @@
-## Hi there 👋
+ # Gabriel Arruda Carricchio
 
-<!--
-**GabrielArrudaCaricchio/GabrielArrudaCaricchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ```Software Engeneer | Back-end```
+ 
+## :robot: &nbsp; Sobre mim 
+ Estou cursando sistema de informação, e estou aprendendo cloud computing, estrutura de dados, banco de dados. Gosto de programar e sou dedicado aos meus projetos e trabalhos. Estou em busca de empregos na área de back-end, minha linguagem de programação principal é python.
 
-Here are some ideas to get you started:
+ ## 🧰 &nbsp; Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
