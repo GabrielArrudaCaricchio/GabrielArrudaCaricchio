@@ -7,7 +7,7 @@ I'm studying information systems and learning about cloud computing, data struct
 
 ---
  
- ## 🧰 &nbsp; Languages and Tools
+ ## 🧰 Languages and Tools
 
 <div style="display: inline_block"><br>
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
