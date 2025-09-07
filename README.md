@@ -2,7 +2,7 @@
 
  ```Software Engeneer | Back-end```
  
-## :robot: &nbsp; About me 
+## 👨‍💻 About me 
 I'm studying information systems and learning about cloud computing, data structures, and databases. I enjoy programming and am dedicated to my projects and work. I'm looking for jobs in the back-end area; my primary programming language is Python.
 
 ---
